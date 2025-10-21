@@ -15,6 +15,7 @@
 - 🔭 Soy una apasionada por la tecnología, la programación, la innovación y la mejora de procesos.
 - 💬 Me gusta crear soluciones prácticas y compartir conocimientos.
   
+  
 
 
   <h2 align="left">Mi formación... </h2>
@@ -40,7 +41,7 @@
 
 <h2> 📫 Contactame </h2>
 
-<a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/rocioluzgallo18/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
 
 
 
