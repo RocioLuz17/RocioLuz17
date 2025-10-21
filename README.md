@@ -21,7 +21,7 @@
 - Programación Web-UTN
 - Analista QA-Educación IT
 - Python Fullstack- Codo a Codo
-- Data Analitics- Power BI-Codo a Codo
+- Data Analyst- Power BI-Codo a Codo
 
 
 
