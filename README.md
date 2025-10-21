@@ -32,6 +32,16 @@
 
 <h3 align="left">Algunas herramientas que utilizo...</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a>      <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a>  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> </a> 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,cs,dotnet,sql" /></a> 
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,cs,dotnet" /></a> 
+<a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-plain.svg" width="40" height="40" /></a>
+<a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" width="40" height="40" /></a> 
+
+
+
+<h2> 📫 Contactame </h2>
+
+<a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"></a>
+
+
 
 
